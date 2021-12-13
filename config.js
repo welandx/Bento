@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Bili',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://bilibili.com/',
     },
   ],
 
