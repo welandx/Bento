@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://gmail.com/',
     },
     {
       id: '3',
@@ -81,19 +81,19 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'message',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'zhihu',
+        link: 'https://zhihu.com',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'emacs-china',
+        link: 'https://emacs-china.org',
       },
       {
         name: 'Oldies',
